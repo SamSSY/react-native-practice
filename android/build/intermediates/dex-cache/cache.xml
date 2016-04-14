@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-24600f7f28d438969a5daa5d625d14dbc4a423ac.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-489f575a9f602caf19a40612ae10aced4f35144d.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-a72566fff20876a07e33a9ec14d666ec746bb361.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02f58fb4e333f5f258eedc4d1bc66032059aaf70">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-d3249440dc476c07e40ccb5293e9f369cd97d959.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-599783196c12efd28a9cd06bf5db011a3c634ef6.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-1ae31c4563abaf8e4a3186c755ded5761f5f9f87.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-2bf4ac8c0e71d83b54a97d6e2c87fffe5ee4e4b2.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-33e48a78657eb96204c4e0c9c9a4c3a615b02934.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-b09b9239c539d2e1a77aa7fce900fa5b92785ce4.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c20f5a5f79264e97805946b60b888c8dfde22902.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-5b118a685ae41267976d686db7620d6c7abdc56e.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-54000827e172a0b32020b5db5e449f56f961d9ab.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-8ab266de654c0dc3d6a76853deb8d4b2e34b1d0d.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-b5287f25595917fce663d96e63e28aac1dfc3346.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-1665dece6105176ad853cda2c840fe145a3063c4.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-e33d60b2812c0fa4a51e5e46600792925e44a85b.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.23.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60e1da2c40a60ff372052eba4278e0cb252a3f3a">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1589a8e9be5c96666541f45f798815f1025292c8.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-a173c774280f2c025a428218565453a41a800f1a.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-a85925e324781019c4ce077cf70c7218786c4e99.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/classes-95c6743057885be5f926e9384e05a6114bb8f440.jar" />
+    </item>
+    <item
+        jar="/Users/ShangYu/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/ShangYu/Desktop/github/react-native-practice/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-55e8eaeba9a4278ce7bfcff58d8e9d72b3fec728.jar" />
+    </item>
+
+</items>
